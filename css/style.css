@@ -1,0 +1,90 @@
+*
+html{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.tegnlogo {
+    width: 80px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+nav {
+    width: 100%;
+    height: 55px;
+    background-color: orange;
+    position: sticky;
+    top: 0;
+    border-radius: 8px;
+}
+nav > ul {
+
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    list-style-type: none;
+    line-height: 55px;
+    display: flex incoming;
+    display: flex;
+    justify-content: center;
+
+}
+nav > ul > li {
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+main {
+
+    width: 80%;
+    min-height: 100vh;
+    margin: 0 auto;
+    background-color: white;
+
+}
+
+body {
+    background-image: url(../image/slate-186307_1920.jpg)
+    
+}
+
+footer {
+	width: 100%;
+	height: 55px;
+	background-color: orange;
+	position: relative;
+  
+}
+
+footer > p {
+    
+}
+
+
+.tesser {
+    margin: 20px;
+    padding: 10px;
+    border: 4px solid black;
+    border-radius: 8px;
+    float: left;
+}
+
+.s1 {
+    
+    width: 30%;
+}
+
+.tesser > p > a > img {
+    width: 300px;
+    
+}
+
+.cover {
+    text-align: center:
+        
+}
